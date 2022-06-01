@@ -1,3 +1,6 @@
 [submodule "LeGO-LOAM"]
 	path = LeGO-LOAM
 	url = https://github.com/Santhosh-Sankar/LeGO-LOAM.git
+[submodule "SC-LeGO-LOAM"]
+	path = SC-LeGO-LOAM
+	url = https://github.com/Santhosh-Sankar/SC-LeGO-LOAM.git
