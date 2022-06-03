@@ -4,7 +4,10 @@ This repository uses LeGO-LOAM and SC LeGO-LOAM to demonstrate LiDAR Odometry An
 
 Both the LeGO-LOAM and SC LeGO-LOAM were forked and modified to support ROS Noetic and latest GTSAM library.
 
-The data was collected from a pair of Velodyne VLP-16 and Ouster OS1-16 LiDAR sensors and VectorNAV VN-100 IMU mounted on a 2016 Linclon MKZ car.
+The data was collected from a pair of Velodyne VLP-16 and Ouster OS1-16 LiDAR sensors and VectorNAV VN-100 IMU mounted on a 2016 Linclon MKZ car. The YouTube videos can be found below.
+
+- LOAM using LeGO-LOAM: https://youtu.be/fahgiKoFyi4 
+- LOAM using SC LeGO-LOAM: https://youtu.be/Fxmc753iwmg
 
 ## Dependency
 
